@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\testbgw\testbgw\bin\Debug\testbgw.exe.config
+C:\Users\DELL\source\repos\testbgw\testbgw\bin\Debug\testbgw.exe
+C:\Users\DELL\source\repos\testbgw\testbgw\bin\Debug\testbgw.pdb
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\AlthogithmSort.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\AlthogithmSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\AlthogithmSort.BubbleSort.resources
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\AlthogithmSort.SelectionSort.resources
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.Properties.Resources.resources
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\AlthogithmSort.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\AlthogithmSort.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.exe
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.pdb
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\AlthogithmSort.Main.resources
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\AlthogithmSort.InterchangeSort.resources
