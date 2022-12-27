@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\testbgw\testbgw\bin\Debug\testbgw.exe.config
+C:\Users\DELL\source\repos\testbgw\testbgw\bin\Debug\testbgw.exe
+C:\Users\DELL\source\repos\testbgw\testbgw\bin\Debug\testbgw.pdb
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.Properties.Resources.resources
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.exe
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.pdb
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.BubbleSort.resources
+C:\Users\DELL\source\repos\testbgw\testbgw\obj\Debug\testbgw.SelectionSort.resources
